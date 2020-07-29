@@ -1,0 +1,2 @@
+# Miners
+Preconfigured mining software
